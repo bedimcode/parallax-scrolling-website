@@ -1,6 +1,13 @@
-# Parallax scrolling website
+# Parallax Scrolling Website
+## [Watch it on youtube](https://youtu.be/JrU6bsuNU7Y)
+### Parallax Scrolling Website
 
-Que tal, les comparto este parallax website, espero sea de su agrado.
+- Parallax Scrolling Animation Using HTML CSS JAVASCRIPT
+- Includes CSS animations.
+- Includes parallax animation.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-## Unete a Youtube
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+
+![preview img](/preview.png)
